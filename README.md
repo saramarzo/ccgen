@@ -1,5 +1,5 @@
 # ccgen
-Proffesional Credit Card Generator With Cardholder name Generator
+Proffesional Credit Card Generator Usig Bin + With Cardholder name Generator
 
 Give a Star if You Love
 
